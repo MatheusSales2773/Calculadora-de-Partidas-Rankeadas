@@ -21,8 +21,8 @@ if (vitorias < 10){
     return { saldoVitorias, nivel };
     
 }
-const vitorias_Jogador = 75;
-const derrotas_Jogador = 20;
+const vitorias_Jogador = 50;
+const derrotas_Jogador = 10;
 
 const { saldoVitorias, nivel } = calcularNivel(vitorias_Jogador, derrotas_Jogador);
 
