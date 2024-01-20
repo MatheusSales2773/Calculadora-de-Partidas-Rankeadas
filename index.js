@@ -26,4 +26,4 @@ const derrotas_Jogador = 10;
 
 const { saldoVitorias, nivel } = calcularNivel(vitorias_Jogador, derrotas_Jogador);
 
-console.log("O Herói tem de saldo de " + saldoVitorias + "está no nível de " + nivel)
+console.log("O Herói tem de saldo de " + saldoVitorias + " está no nível de " + nivel)
